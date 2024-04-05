@@ -1,7 +1,6 @@
 ---
 title: Getting Started
-layout: minimal
-parent: Layout
+layout: default
 has_children: true
 ---
 

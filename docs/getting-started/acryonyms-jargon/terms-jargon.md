@@ -1,8 +1,7 @@
 ---
 title: Acronyms & Jargon
-layout: minimal
-parent: Layout
-has_children: false
+layout: default
+parent: Getting Started
 ---
 
 # A minimal layout page
